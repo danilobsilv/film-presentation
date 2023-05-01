@@ -5,7 +5,7 @@ function getBestMovies2021(apiKey, fs) {
   .then(response => response.json())
   .then(data => {
     const jsonResult = JSON.stringify(data.results, null, 4);
-    fs.writeFileSync('backend/json/movieData2022.json', jsonResult);
+    fs.writeFileSync('backend/json/movieData2021.json', jsonResult);
     return data.results;
   })
   .catch(error => {
@@ -15,4 +15,4 @@ function getBestMovies2021(apiKey, fs) {
   }
   
   
-  module.exports = {getBestMovies2021};
+ module.exports = {getBestMovies2021};

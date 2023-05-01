@@ -15,4 +15,4 @@ function getBestMovies2022(apiKey, fs) {
       }
       
       
-      module.exports = {getBestMovies2022};
+module.exports = {getBestMovies2022};
