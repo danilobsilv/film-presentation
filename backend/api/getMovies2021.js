@@ -1,4 +1,3 @@
-
 function getBestMovies2021(apiKey, fs) {
   const url = `https://api.themoviedb.org/3/discover/movie?api_key=${apiKey}&language=pt-BR&sort_by=revenue.desc&include_adult=false&include_video=false&page=1&primary_release_year=2021`;
   
