@@ -1,18 +1,6 @@
-// // const { getMovieData } = require('./backend/api/getData');
+const  { getBestMovies2021 } = require( './backend/api/getMovies2021');
+const fs = require('fs');
 
-// // Chama a função getMovieData para obter os dados do filme
-// getMovieData();
+const apiKey = "6f8f868defa0de80c57749ed0f736f66"
 
-
-// const { getMovies } = require('./backend/api/getMovies2021');
-
-
-
-// getMovies(apiKey, releaseYear)
-//   .then(movies => {
-//     for (const movie of movies) {
-//       console.log(`${movie.title} (${movie.release_date}): ${movie.overview}`);
-//     }
-//   });
-
-// getMovies(apiKey, releaseYear);
+getBestMovies2021(apiKey, fs);
