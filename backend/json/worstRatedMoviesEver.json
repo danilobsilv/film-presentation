@@ -1,0 +1,404 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/oHrrgAPEKpz0S1ofQntiZNrmGrM.jpg",
+        "genre_ids": [
+            28,
+            12,
+            14,
+            878,
+            53
+        ],
+        "id": 14164,
+        "original_language": "en",
+        "original_title": "Dragonball Evolution",
+        "overview": "Em seu aniversário de 18 anos, Goku ganha uma esfera do dragão mística de presente de seu avô. Existem apenas seis outras no mundo todo, e reza a lenda que será concedido um desejo a quem possuir todas as sete. Quando uma força obscura provoca uma tragédia, Goku e seus amigos embarcam em uma jornada épica para recolher as sete esferas do dragão e salvar o planeta da destruição.",
+        "popularity": 30.474,
+        "poster_path": "/23PcKOqNdhKeMFzORzQGn5eC44N.jpg",
+        "release_date": "2009-03-12",
+        "title": "Dragonball Evolution",
+        "video": false,
+        "vote_average": 2.9,
+        "vote_count": 1846
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aDmXiKzMCrc4uyQifPTWCJ2vBuc.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 485774,
+        "original_language": "en",
+        "original_title": "The Open House",
+        "overview": "Depois de uma tragédia, uma mãe e o filho adolescente vão viver nas montanhas numa casa desocupada de parentes. Lá, forças aterrorizantes e misteriosas os aguardam.",
+        "popularity": 10.843,
+        "poster_path": "/tAcsTHfzYwxe0QkarzHqNfnqvxa.jpg",
+        "release_date": "2018-01-19",
+        "title": "Vende-se Esta Casa",
+        "video": false,
+        "vote_average": 3.7,
+        "vote_count": 1271
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mSZog2CLzXBBItsWq3sPt6WH9rf.jpg",
+        "genre_ids": [
+            35,
+            28,
+            12
+        ],
+        "id": 9760,
+        "original_language": "en",
+        "original_title": "Epic Movie",
+        "overview": "Quatro adultos órfãos vivem uma aventura incrível em filmes de fantasias. Eles visitam um grotesco confeiteiro em uma fábrica de chocolate e entram em um reino mistico, no qual eles devem ajudar um sábio e vigoroso leão a se livrar da terra de uma feiticeira.",
+        "popularity": 19.482,
+        "poster_path": "/kZuxR8SUCjizOhynUtBhmZBSaLU.jpg",
+        "release_date": "2007-01-25",
+        "title": "Deu a Louca em Hollywood",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 1360
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/yFbmfMgDbFdpOeBYcTs2JUCAueh.jpg",
+        "genre_ids": [
+            27,
+            28,
+            35,
+            878,
+            12
+        ],
+        "id": 205321,
+        "original_language": "en",
+        "original_title": "Sharknado",
+        "overview": "Um furacão estranho atinge Los Angeles, espalhando milhares de tubarões entre a população alagada. Os ventos viram tornados no deserto, levando as mortíferas criaturas pela água, terra e mar.",
+        "popularity": 14.802,
+        "poster_path": "/ohj7g2j4hRz8MmkEqlHAP65aNoL.jpg",
+        "release_date": "2013-07-11",
+        "title": "Sharknado",
+        "video": false,
+        "vote_average": 3.9,
+        "vote_count": 1425
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/fsyLxF8eIfZ2Z7DXmjD6n9vHmb8.jpg",
+        "genre_ids": [
+            35,
+            18,
+            10749
+        ],
+        "id": 17473,
+        "original_language": "en",
+        "original_title": "The Room",
+        "overview": "",
+        "popularity": 9.211,
+        "poster_path": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+        "release_date": "2003-06-27",
+        "title": "The Room",
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 1227
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8D3dBwSoPSGWRusbTYS8oR1tAu9.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 7278,
+        "original_language": "en",
+        "original_title": "Meet the Spartans",
+        "overview": "Os mesmo criadores de \"Deu a Louca em Hollywood\" e da série \"Todo Mundo em Pânico\" voltam com mais uma comédia paródica, agora tendo como fonte principal das piadas o épico \"300\". Xerxes, por exemplo, que no original era o sarado Rodrigo Santoro, aqui é o pançudo Ken Davitian (o companheiro de viagem de Borat). Além de \"300\", no entanto, a história arruma espaço para brincar com outros títulos conhecidos, como a série de TV \"O Aprendiz\" e os filmes \"Pequena Miss Sunshine\", \"Homem-Aranha 3\" e \"Happy Feet\".",
+        "popularity": 36.855,
+        "poster_path": "/3wvTTv6J4R53kGKP1Tj6IMcxnl.jpg",
+        "release_date": "2008-01-24",
+        "title": "Espartalhões",
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 1467
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/od5chJN27AKS2ZfMhwZVShTo1Kg.jpg",
+        "genre_ids": [
+            14,
+            35,
+            10751,
+            12
+        ],
+        "id": 10214,
+        "original_language": "en",
+        "original_title": "Son of the Mask",
+        "overview": "O aspirante e cartunista Tim Avery está bastante relutante em se tornar pai. Quando ele descobre, então, que o seu bebê tem habilidades pra lá de estranhas, a confusão começa pra valer! Afinal, de alguma forma, a criança manifesta os poderes da Máskara de Loki, um objeto mitológico que transforma a pessoa que o usa em um alter-ego maníaco e que pode mudar de forma como quiser. E, pior do que ter um bebê com super-poderes em casa, é ter o próprio Loki atrás de você querendo a máskara de volta...",
+        "popularity": 31.717,
+        "poster_path": "/dYiQoSOtnKqdlpIqNGr3JS7xKBx.jpg",
+        "release_date": "2005-02-18",
+        "title": "O Filho do Máskara",
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 1599
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mRNU6WHEFqoF9RSVo8o0lpprWil.jpg",
+        "genre_ids": [
+            53,
+            28,
+            878
+        ],
+        "id": 218043,
+        "original_language": "en",
+        "original_title": "Left Behind",
+        "overview": "Após um longo tempo, Chloe decide visitar os pais. Ela andava irritava com a mãe, Irene, que há cerca de um ano insistia na pregação religiosa a todos à sua volta. Ainda no aeroporto, ela encontra por acaso com seu pai, Rayford, um piloto de avião. Durante a viagem, algo repentino acontece em todo o planeta... Milhões de pessoas simplesmente desaparecem, sem deixar vestígios.",
+        "popularity": 34.473,
+        "poster_path": "/3fHwNFmm0Kcs2VP5y3Pob7Dc3K1.jpg",
+        "release_date": "2014-10-03",
+        "title": "O Apocalipse",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 1155
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nawzkUvXFv5J0Lwjw1OLwZGXLSA.jpg",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "id": 40264,
+        "original_language": "en",
+        "original_title": "Vampires Suck",
+        "overview": "Sátira sobre a angústia e a vida amorosa dos adolescentes e, principalmente, dos filmes que abordam a temática vampírica. Becca, adolescente ansiosa que não é vampira, está indecisa entre dois garotos (Edward e Jacob), mas primeiro ela precisa dar um jeito no pai que só faz ela passar vergonha. Enquanto isso, os amigos dela também vivem dilemas amorosos e a festa de formatura da escola está chegando.",
+        "popularity": 16.585,
+        "poster_path": "/2cVcrkGh24FMMrdnSFEyqZusFp3.jpg",
+        "release_date": "2010-08-18",
+        "title": "Os Vampiros que se Mordam",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 1107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nDAbr3NSkkOMIkFrQ3ycVxzgaMc.jpg",
+        "genre_ids": [
+            80,
+            14,
+            27,
+            53
+        ],
+        "id": 351460,
+        "original_language": "en",
+        "original_title": "Death Note",
+        "overview": "Light, um estudante brilhante que tropeça em um caderno místico que tem o poder de matar qualquer pessoa  cujo nome ele escreve nele. Light decide matar todos os criminosos do mundo.  Logo, encontra-se perseguido por um famoso detetive conhecido apenas por L.",
+        "popularity": 20.586,
+        "poster_path": "/TIww0w0uos85Op8eFP5qLlxhXL.jpg",
+        "release_date": "2017-08-25",
+        "title": "Death Note",
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 3659
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/esvqzTBIyolJs1uOYGKS2VDkNn6.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "id": 9708,
+        "original_language": "en",
+        "original_title": "The Wicker Man",
+        "overview": "Um agente da polícia viaja para uma ilha remota para investigar o desaparecimento de uma menina. Chegando lá, percebe que forças sinistras estão por trás de rituais pagãos envolvendo os estranhos moradores da ilha. O agente também começa a desconfiar da possibilidade de sacrifício humano nos cerimoniais.",
+        "popularity": 17.846,
+        "poster_path": "/oDBDJFkia6nhWLk8y5JNiS45ybw.jpg",
+        "release_date": "2006-08-31",
+        "title": "O Sacrifício",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 1153
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1GGfWFp9hp4RUHRHxd505z9rVFa.jpg",
+        "genre_ids": [
+            12,
+            14,
+            35,
+            10751,
+            878
+        ],
+        "id": 9607,
+        "original_language": "en",
+        "original_title": "Super Mario Bros.",
+        "overview": "Há muito tempo, a Terra era dominada pelos dinossauros e ninguém os incomodava. A vida era boa em um lugar que, após 65 milhões de anos, passou a se chamar Brooklyn. Então algo inesperado aconteceu: Um meteoro gigante atingiu a Terra e os dinossauros foram exterminados. Entretanto, o impacto criou uma dimensão paralela, onde alguns dinossauros sobreviveram e se tornaram uma espécie inteligente e agressiva. Brooklyn, 20 anos atrás. Na porta de um convento é deixado um ovo, que é recolhido pelas freiras e dele nasce uma criança. Brooklyn, dias atuais. Os encanadores Mario Mario (Bob Hoskins) e Luigi Mario (John Leguizamo) se vêem em uma aventura fantástica para salvar a Princesa Daisy (Samantha Mathis) em um escondido mundo, Dinohattan, onde os habitantes evoluíram dos dinossauros. A dupla enfrenta desafios mortais do Rei Koopa (Dennis Hopper) e batalham contra répteis enormes para impedir um terrível plano, que busca invadir nosso mundo.",
+        "popularity": 262.687,
+        "poster_path": "/cudfWiiFDxj8rq1Myolzv6yY3ah.jpg",
+        "release_date": "1993-05-28",
+        "title": "Super Mario Bros.",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 1088
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/m4UT6yKXhXgbzxpeV35L4jLoJoP.jpg",
+        "genre_ids": [
+            28,
+            878,
+            12,
+            35
+        ],
+        "id": 415,
+        "original_language": "en",
+        "original_title": "Batman & Robin",
+        "overview": "A dupla dinâmica enfrenta os supervilões Mr. Freeze e sedutora ecoterrorista Hera Venenosa. Mas, para poder livrar Gotham City das garras dos vilões, Batman e Robin contam com uma nova companheira, a Batgirl.",
+        "popularity": 31.696,
+        "poster_path": "/cGRDufDDSrFrv7VI4YnmWnslne0.jpg",
+        "release_date": "1997-06-20",
+        "title": "Batman & Robin",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 4475
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/moMs64IweGkJt1pwEAlsAFu3OFt.jpg",
+        "genre_ids": [
+            35
+        ],
+        "id": 71880,
+        "original_language": "en",
+        "original_title": "Jack and Jill",
+        "overview": "Jack, um publicitário de sucesso com uma linda família, enlouquece com a visita de sua irmã gêmea Jill no dia de Ação de Graças. As coisas ficam ainda mais fora de controle quando Jill decide ficar mais tempo.",
+        "popularity": 28.899,
+        "poster_path": "/cklXRmdNUmXSkM0gMAz30pkzGGx.jpg",
+        "release_date": "2011-11-11",
+        "title": "Cada um Tem a Gêmea Que Merece",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 1866
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/tQPDwl1jNZi59KoFT2oxDDnlqhG.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            53
+        ],
+        "id": 439015,
+        "original_language": "en",
+        "original_title": "Slender Man",
+        "overview": "As amigas Wren, Hallie, Chloe e Katie levam uma vida entediante no colégio. Quando ouvem falar num monstro chamado Slender Man, decidem invocá-lo através de um vídeo na Internet. A brincadeira se transforma num perigo real quando todas começam a ter pesadelos e visões do homem se rosto, com vários braços, capaz de fazer as suas vítimas alucinarem. Um dia, Katie desaparece. Como a polícia não dispõe de nenhuma prova para a investigação, cabe às três amigas fazerem a sua própria busca, enfrentando a criatura.",
+        "popularity": 28.022,
+        "poster_path": "/wrb3riGsU0f9z9PWca9CIMCZLfZ.jpg",
+        "release_date": "2018-08-10",
+        "title": "Slender Man: Pesadelo Sem Rosto",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 1768
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gzhVcfC5j0sTnS4WJzBrCS0Vkr0.jpg",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "id": 166424,
+        "original_language": "en",
+        "original_title": "Fantastic Four",
+        "overview": "Quatro jovens astronautas ganham superpoderes ao serem transportados a um universo alternativo e ficarem expostos à radiação cósmica. Eles precisam usar suas novas habilidades para proteger o planeta contra o Doutor Destino.",
+        "popularity": 41.92,
+        "poster_path": "/XJ8jZ4hGyusnN41NnxR0vv5ghS.jpg",
+        "release_date": "2015-08-05",
+        "title": "Quarteto Fantástico",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 5517
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9bZy1KwxiM8BVJlo93xwkdEo5Zj.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 472838,
+        "original_language": "en",
+        "original_title": "SPF-18",
+        "overview": "Cinco adolescentes prestes a se formar no ensino médio passam o verão tomando conta da elegante casa de praia do Keanu Reeves. Entre romances e muito surfe, eles fazem descobertas sobre si mesmos e se veem obrigados a amadurecer e lidar com grandes decisões de vida.",
+        "popularity": 13.476,
+        "poster_path": "/mdsnV8HtJUDhwmCt0IDT0TwLbsz.jpg",
+        "release_date": "2017-09-29",
+        "title": "SPF-18",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 1016
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/7OsGo8yVkTgD1ZJMBi9M8GP5aes.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35,
+            10751
+        ],
+        "id": 332,
+        "original_language": "en",
+        "original_title": "Inspector Gadget",
+        "overview": "Após uma tentativa de resgate atrapalhada, o ingênuo segurança John Brown tem seu corpo dividido em mil pedaços pelo perigoso dr. Claw. Vendo a oportunidade como uma chance de demonstrar sua nova criação, a dra. Brenda reconstitui o corpo de John, tornando-o agora um robô. Nasce então o inspetor Bugiganga, que logo se torna a mais importante ferramenta de combate ao crime na cidade.",
+        "popularity": 15.725,
+        "poster_path": "/qYPR9K2TUqdK7G1jYbKwIsx1JMB.jpg",
+        "release_date": "1999-07-23",
+        "title": "Inspetor Bugiganga",
+        "video": false,
+        "vote_average": 4.4,
+        "vote_count": 1055
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/mkTHOurFPTI0tobrregK7NpaLzy.jpg",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "id": 17692,
+        "original_language": "en",
+        "original_title": "Jaws 3-D",
+        "overview": "O tubarão mais famoso de todos os tempos está de volta... Maior e mais assustador do que nunca nesta nova aventura.",
+        "popularity": 24.239,
+        "poster_path": "/dnOT2gTupHDYY2AN9gYLklSUiPo.jpg",
+        "release_date": "1983-07-22",
+        "title": "Tubarão 3",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 1090
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/6gvocf4kU9qJyUVZEDveOtLkaMu.jpg",
+        "genre_ids": [
+            35,
+            10751,
+            10770
+        ],
+        "id": 12536,
+        "original_language": "en",
+        "original_title": "Home Alone 4",
+        "overview": "Após a separação de seus pais, Kevin mora com a mãe. Ele decide passar o natal com o pai e viaja para a mansão da namorada dele, Natalie. Lá, se vê tendo que impedir que a casa seja assaltada por dois perigosos criminosos.",
+        "popularity": 27.807,
+        "poster_path": "/7D1anhTEVsBjgAEihUEFHx5PbF7.jpg",
+        "release_date": "2002-11-03",
+        "title": "Esqueceram de Mim 4",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 1085
+    }
+]
