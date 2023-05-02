@@ -9,5 +9,5 @@ const apiKey = "6f8f868defa0de80c57749ed0f736f66"
 
 // getWorstRatedMoviesEver(apiKey, fs);
 // getTopRatedMovies(apiKey, fs)
-// getBestMovies2021(apiKey, fs);
+getBestMovies2021(apiKey, fs);
 // getBestMovies2022(apiKey, fs);
