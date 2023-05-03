@@ -1,11 +1,15 @@
-{% extends "index.html" %}
-{% block content %} 
+  {% extends "index.html" %}
+  {% block content %} 
+
+  {% include "headerpickcategorie.html" %}
+<link rel="stylesheet" href="/styles/pickCategorie.css" />
+<script src="\scripts\pickCategorie.js"></script>
   <header>
     <h1>My Personal Flix</h1>
     <div class="logo-container">
-      
+      <!-- ="./../../assets/github.png -->
       <a href="https://github.com/danilobsilv" target="_blank">
-        <img src="./../../assets/github.png" alt="GitHub" style="border-radius: 50%;">
+        <img src="../assets/github.png" alt="GitHub" style="border-radius: 50%;">
       </a>
       
       <a href="https://www.instagram.com/danilobrunos_" target="_blank">
