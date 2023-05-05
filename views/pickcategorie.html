@@ -4,6 +4,7 @@
   <!-- {% include "headerpickcategorie.html" %} -->
 <link rel="stylesheet" href="/styles/pickCategorie.css" />
 <script src="/scripts/pickCategorie.js"></script>
+<script   src="/scripts/redirectToLowMovies.js"></script>
   <header>
     <h1>My Personal Flix</h1>
     <div class="logo-container">
@@ -28,15 +29,16 @@
   </header>
 
   <div class="grid-container">
+    
     <section onclick="redirectToPickMovie()" id="link-session1">
       <h2 >1º Sessão</h2>
-      <p>Filmes com a classificação mais<strong> ALTA</strong></p>
+      <p>Filmes com as classificações mais<strong> ALTAS</strong></p>
       <a href="/session1"></a>
     </section>
-      
+
     <section onclick="redirectToLowMovies()" id="link-session2">
     <h2>2º Sessão</h2>
-    <p>Filmes com a classificação mais<strong> BAIXA</strong></p>
+    <p>Filmes com as classificações mais<strong> BAIXAS</strong></p>
     <a href="/session2"></a>
     </section>
 
