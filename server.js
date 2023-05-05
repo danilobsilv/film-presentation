@@ -23,6 +23,9 @@ app.get("/session1", function(req, res) {
       res.render("pickmoviescreen.html");
 });
 
+app.get("/session2", function(req, res){
+      res.render("lowermoviescreen.html");
+})
 
 
 app.listen(3333, function(){
