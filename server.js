@@ -29,5 +29,6 @@ app.get("/session2", function(req, res){
 
 
 app.listen(3333, function(){
-      console.log('server running at http://localhost:3333');
+      console.log("SERVER IS RUNNING!\n")
+      console.log('PORT:  http://localhost:3333');
 });
