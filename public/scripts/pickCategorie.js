@@ -1,4 +1,4 @@
-// function redirectToPickMovie() {
-//       window.location.href = "/session1";
-//     }
+function redirectToPickMovie() {
+      window.location.href = "/session1";
+    }
     

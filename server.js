@@ -20,8 +20,10 @@ app.get('/', function(req, res) {
 });
 
 app.get("/session1", function(req, res) {
-      res.send("pickcategorie.html");
+      res.render("pickmoviescreen.html");
 });
+
+
 
 app.listen(3333, function(){
       console.log('server running at http://localhost:3333');
