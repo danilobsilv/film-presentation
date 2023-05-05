@@ -74,10 +74,12 @@ header .logo-container img {
   background-color: #eee;
   padding: 10px;
   font-size: 30px;
+  cursor: pointer;
 }
 
 
 header .logo-container img {
   height: 50px;
-  /* outros estilos */
 }
+
+
