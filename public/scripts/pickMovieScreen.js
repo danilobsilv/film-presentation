@@ -1,9 +1,9 @@
+const gridContainer = document.querySelector('.grid-container');
+
 fetch('/json/topRatedMovies.json')
   .then(response => response.json())
   .then(data => {
     const movies = data;
-
-    const gridContainer = document.querySelector('.grid-container');
 
     movies.forEach(movie => {
       if (movie.overview !== "") { // verifica se o filme tem overview
@@ -12,7 +12,7 @@ fetch('/json/topRatedMovies.json')
 
         const titleElement = document.createElement('div');
         const titleHeading = document.createElement('h3');
-        titleHeading.textContent = 'Title';
+        titleHeading.textContent = 'Title:';
         const titleParagraph = document.createElement('p');
         titleParagraph.classList.add('title');
         titleParagraph.textContent = movie.title;
@@ -21,7 +21,7 @@ fetch('/json/topRatedMovies.json')
 
         const overviewElement = document.createElement('div');
         const overviewHeading = document.createElement('h3');
-        overviewHeading.textContent = 'Overview';
+        overviewHeading.textContent = 'Overview:';
         const overviewParagraph = document.createElement('p');
         overviewParagraph.classList.add('overview');
         overviewParagraph.textContent = movie.overview;
@@ -30,7 +30,7 @@ fetch('/json/topRatedMovies.json')
 
         const popularityElement = document.createElement('div');
         const popularityHeading = document.createElement('h3');
-        popularityHeading.textContent = 'Popularity';
+        popularityHeading.textContent = 'Popularity:';
         const popularityParagraph = document.createElement('p');
         popularityParagraph.classList.add('popularity');
         popularityParagraph.textContent = movie.popularity;
@@ -39,7 +39,7 @@ fetch('/json/topRatedMovies.json')
 
         const releaseDateElement = document.createElement('div');
         const releaseDateHeading = document.createElement('h3');
-        releaseDateHeading.textContent = 'Release Date';
+        releaseDateHeading.textContent = 'Release Date:';
         const releaseDateParagraph = document.createElement('p');
         releaseDateParagraph.classList.add('release-date');
         releaseDateParagraph.textContent = movie.release_date;
@@ -51,7 +51,7 @@ fetch('/json/topRatedMovies.json')
         gridItem.appendChild(popularityElement);
         gridItem.appendChild(releaseDateElement);
 
-        if (gridItem.children.length > 0) { // verifica se há elementos filho dentro do grid-item
+        if (titleParagraph.textContent !== "" && overviewParagraph.textContent !== "" && popularityParagraph.textContent !== "" && releaseDateParagraph.textContent !== "") { // verifica se todos os campos foram preenchidos
           gridContainer.appendChild(gridItem);
         }
       }
