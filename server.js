@@ -20,7 +20,7 @@ app.get('/', function(req, res) {
 });
 
 app.get("/session1", function(req, res) {
-      res.render("pickmoviescreen.html");
+      res.render("bestmovies.html");
 });
 
 app.get("/session2", function(req, res){
