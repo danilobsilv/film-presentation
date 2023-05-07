@@ -1,10 +1,10 @@
   {% extends "index.html" %}
   {% block content %} 
-
   <!-- {% include "headerpickcategorie.html" %} -->
 <link rel="stylesheet" href="/styles/pickCategorie.css" />
 <script src="/scripts/pickCategorie.js"></script>
 <script   src="/scripts/redirectToLowMovies.js"></script>
+<script src="/scripts/redirectToBest2021.js"></script>
   <header>
     <h1>My Personal Flix</h1>
     <div class="logo-container">
@@ -43,8 +43,9 @@
     </section>
 
     <section>
-      <h2>3º Session</h2>
+      <h2 onclick="redirectToBest2021()">3º Session</h2>
       <p>Filmes com as melhores classificações de<strong> 2021</strong></p>
+      <a href="/session3"></a>
     </section>
 
     <section>
