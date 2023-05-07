@@ -31,6 +31,10 @@ app.get("/session3", function(req, res){
       res.render("bestmovies2021.html");
 })
 
+app.get("/session4", function(req, res){
+      res.render("bestmovies2022.html");
+})
+
 app.listen(3333, function(){
       console.log("SERVER IS RUNNING!\n")
       console.log('PORT:  http://localhost:3333');
