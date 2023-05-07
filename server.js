@@ -27,6 +27,9 @@ app.get("/session2", function(req, res){
       res.render("lowermoviescreen.html");
 })
 
+app.get("/session3", function(req, res){
+      res.render("bestmovies2021.html");
+})
 
 app.listen(3333, function(){
       console.log("SERVER IS RUNNING!\n")
