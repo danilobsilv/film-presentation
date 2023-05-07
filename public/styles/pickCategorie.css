@@ -1,6 +1,6 @@
 /* Estilos do cabeçalho */
 header {
-  background-color: #333;
+  background-color: darkseagreen;
   color: #fff;
   padding: 10px;
   position: relative;
@@ -14,7 +14,7 @@ header {
 
 header h1 {
   margin: 0;
-  color: red;
+  color: black;
   grid-column: 1 / -1; /* Alterado para centralizar o título */
   grid-row: 1 / 2;
   justify-self: center; /* centraliza horizontalmente */
@@ -40,10 +40,11 @@ header nav ul {
 header nav li {
   display: inline-block;
   margin-right: 20px;
+
 }
 
 header nav a {
-  color: #fff;
+  color: black;
   text-decoration: none;
 }
 
@@ -75,6 +76,7 @@ header .logo-container img {
   padding: 20px;
   font-size: 30px;
   cursor: pointer;
+  background-color: darkseagreen;
   
 }
 
@@ -89,5 +91,4 @@ header .logo-container img {
 header .logo-container img {
   height: 50px;
 }
-
 
