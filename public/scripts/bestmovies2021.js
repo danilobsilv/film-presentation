@@ -6,7 +6,6 @@ fetch('/json/movieData2021.json')
     const gridContainer = document.querySelector('.grid-container');
 
     movies.forEach(movie => {
-
       if (movie.overview !== "") { // verifica se o filme tem overview
         const gridItem = document.createElement('div');
         gridItem.classList.add('grid-item');
