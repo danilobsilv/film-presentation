@@ -15,6 +15,10 @@ nunjucks.configure("views", {
   noCache: true,
 });
 
+app.get("/login", function (req, res){
+      res.render("loginview.html");
+});
+
 app.get('/', function(req, res) {
       return res.render("pickcategorie.html");
 });
