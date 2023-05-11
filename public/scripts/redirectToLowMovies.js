@@ -1,5 +1,4 @@
 function redirectToLowMovies() {
-      window.location.href = "/session2";
-      console.log("redirect to /session2");
+      window.location.href = "/main/session2";
     }
     

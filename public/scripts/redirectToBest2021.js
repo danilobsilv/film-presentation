@@ -1,3 +1,3 @@
 function redirectToBest2021(){
-      window.location.href = "/session3";
+      window.location.href = "/main/session3";
 }
