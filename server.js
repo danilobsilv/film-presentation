@@ -15,27 +15,32 @@ nunjucks.configure("views", {
   noCache: true,
 });
 
+
+app.get('/main', function(req, res) {
+      return res.render("pickcategorie.html");
+});
+
 app.get("/login", function (req, res){
       res.render("loginview.html");
 });
 
-app.get('/', function(req, res) {
-      return res.render("pickcategorie.html");
+app.get("/", function (req, res){
+      res.render("landingpage.html");
 });
 
-app.get("/session1", function(req, res) {
+app.get("/main/session1", function(req, res) {
       res.render("bestmovies.html");
 });
 
-app.get("/session2", function(req, res){
+app.get("/main/session2", function(req, res){
       res.render("lowermoviescreen.html");
 })
 
-app.get("/session3", function(req, res){
+app.get("/main/session3", function(req, res){
       res.render("bestmovies2021.html");
 })
 
-app.get("/session4", function(req, res){
+app.get("/main/session4", function(req, res){
       res.render("bestmovies2022.html");
 })
 
