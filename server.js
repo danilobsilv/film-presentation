@@ -24,6 +24,10 @@ app.get("/login", function (req, res){
       res.render("loginview.html");
 });
 
+app.get("/login/registeruser", function (req, res){
+      res.render("registeruser.html");
+})
+
 app.get("/", function (req, res){
       res.render("landingpage.html");
 });

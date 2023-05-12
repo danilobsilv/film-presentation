@@ -1,0 +1,57 @@
+body {
+      background-color: darkseagreen;
+      font-family: Arial, sans-serif;
+    }
+    
+.login-box {
+      background-color: darkslategrey;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin: 100px auto;
+      padding: 20px;
+      max-width: 400px;
+}
+
+h2 {
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+      text-align: center;
+}
+
+form {
+      display: flex;
+      flex-direction: column;
+}
+
+label {
+margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="password"] {
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      padding: 10px;
+      margin-bottom: 20px;
+}
+
+button[type="submit"] {
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 3px;
+      color: #fff;
+      cursor: pointer;
+      padding: 10px;
+      transition: background-color 0.2s ease-in-out;
+}
+
+button[type="submit"]:hover {
+      background-color: #3e8e41;
+}
+
+.header-flix{
+      color: black;
+      padding-left: 515px;
+      padding-top: 50px;
+}
