@@ -1,12 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Document</title>
-</head>
-<body>
-      <h1>landing page</h1>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Flix</title>
+    <link rel="stylesheet" href="/styles/landingpage.css">
+    <link rel="icon" href="/assets/favicon.ico">
+    <script src="/scripts/redirectToLandingPage.js"></script>
+  </head>
+  <body>
+    <header>
+      <div>
+            <h1 onclick="redirectToLandingPage()" class="title">My Personal Flix</h1>
+            <a href="/"></a>     
+      </div>
+    </header>
+    <main>
+      <section class="hero">
+        <div class="hero-text">
+          <p><strong>Find the latest and greatest movies and TV shows here</strong></p>
+          <button class="hero-button">Get Started</button>
+        </div>
+      </section>
+      <section class="features">
+        <h2>Features</h2>
+        <ul>
+          <li><i class="fas fa-play"></i>Watch movies and TV shows</li>
+          <li><i class="fas fa-heart"></i>Save your favorites</li>
+          <li><i class="fas fa-comment"></i>Rate and review</li>
+          <li><i class="fas fa-user"></i>Create a personal profile</li>
+        </ul>
+      </section>
+      <section class="reviews">
+        <h2>Reviews</h2>
+        <div class="review-card">
+          <img src="reviewer1.jpg" alt="Reviewer 1">
+          <div class="review-text">
+            <p>"My Personal Flix is amazing! It has everything I need to watch and keep track of my favorite shows and movies."</p>
+            <span>- John Doe</span>
+          </div>
+        </div>
+        <div class="review-card">
+          <img src="reviewer2.jpg" alt="Reviewer 2">
+          <div class="review-text">
+            <p>"I'm a movie buff and I can always find something new and interesting to watch on My Personal Flix."</p>
+            <span>- Jane Smith</span>
+          </div>
+        </div>
+      </section>
+      <section class="signup">
+        <h2>Join My Personal Flix Today</h2>
+        <form action="#" method="post">
+          <input type="text" name="name" placeholder="Name" required>
+          <input type="email" name="email" placeholder="Email" required>
+          <input type="password" name="password" placeholder="Password" required>
+          <button type="submit">Sign Up</button>
+        </form>
+        <p>Already a member? <a href="#">Sign In</a></p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 My Personal Flix. All rights reserved.</p>
+    </footer>
+  </body>
 </html>
